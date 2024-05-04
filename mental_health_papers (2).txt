@@ -1,0 +1,651 @@
+Title: Girlbosses, The Red Pill, and the Anomie and Fatale of Gender Online: Analyzing Posts from r/SuicideWatch on Reddit
+Year: 2023
+
+Title: Embedding Mental Health Discourse for Community Recommendation
+Year: 2023
+
+Title: Modeling Empathy and Distress in Reaction to News Stories
+Year: 2018
+
+Title: Gendered Mental Health Stigma in Masked Language Models
+Year: 2022
+
+Title: D4: a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat
+Year: 2022
+
+Title: Data-driven Approach to Differentiating between Depression and Dementia from Noisy Speech and Language Data
+Year: 2022
+
+Title: Acoustic Analysis of Native (L1) Bengali Speakers’ Phonological Realization of English Lexical Stress Contrast
+Year: 2020
+
+Title: Multi-Task Learning for Depression Detection in Dialogs
+Year: 2022
+
+Title: A unified framework for cross-domain and cross-task learning of mental health conditions
+Year: 2022
+
+Title: Age-Specific Linguistic Features of Depression via Social Media
+Year: 2023
+
+Title: MIAPARLE: Online training for the discrimination of stress contrasts
+Year: 2018
+
+Title: Sentiment-guided Transformer with Severity-aware Contrastive Learning for Depression Detection on Social Media
+Year: 2023
+
+Title: Privacy Aware Question-Answering System for Online Mental Health Risk Assessment
+Year: 2023
+
+Title: Augmenting Reddit Posts to Determine Wellness Dimensions impacting Mental Health
+Year: 2023
+
+Title: SMHD-GER: A Large-Scale Benchmark Dataset for Automatic Mental Health Detection from Social Media in German
+Year: 2023
+
+Title: Combining Psychological Theory with Language Models for Suicide Risk Detection
+Year: 2023
+
+Title: Boosting Distress Support Dialogue Responses with Motivational Interviewing Strategy
+Year: 2023
+
+Title: Coherent or Not? Stressing a Neural Language Model for Discourse Coherence in Multiple Languages
+Year: 2023
+
+Title: C2D2 Dataset: A Resource for the Cognitive Distortion Analysis and Its Impact on Mental Health
+Year: 2023
+
+Title: Identifying Early Maladaptive Schemas from Mental Health Question Texts
+Year: 2023
+
+Title: AraDepSu: Detecting Depression and Suicidal Ideation in Arabic Tweets Using Transformers
+Year: 2022
+
+Title: Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention
+Year: 2020
+
+Title: Do Models of Mental Health Based on Social Media Data Generalize?
+Year: 2020
+
+Title: Weakly-Supervised Methods for Suicide Risk Assessment: Role of Related Domains
+Year: 2021
+
+Title: Estimating the effect of COVID-19 on mental health: Linguistic indicators of depression during a global pandemic
+Year: 2020
+
+Title: Temporal Mental Health Dynamics on Social Media
+Year: 2020
+
+Title: Quantifying the Effects of COVID-19 on Mental Health Support Forums
+Year: 2020
+
+Title: Identifying pandemic-related stress factors from social-media posts – Effects on students and young-adults
+Year: 2020
+
+Title: On the State of Social Media Data for Mental Health Research
+Year: 2021
+
+Title: Determining a Person’s Suicide Risk by Voting on the Short-Term History of Tweets for the CLPsych 2021 Shared Task
+Year: 2021
+
+Title: Learning Models for Suicide Prediction from Social Media Posts
+Year: 2021
+
+Title: Suicide Risk Prediction by Tracking Self-Harm Aspects in Tweets: NUS-IDS at the CLPsych 2021 Shared Task
+Year: 2021
+
+Title: Team 9: A Comparison of Simple vs. Complex Models for Suicide Risk Assessment
+Year: 2021
+
+Title: Using Psychologically-Informed Priors for Suicide Prediction in the CLPsych 2021 Shared Task
+Year: 2021
+
+Title: Qualitative Analysis of Depression Models by Demographics
+Year: 2021
+
+Title: Towards the Development of Speech-Based Measures of Stress Response in Individuals
+Year: 2021
+
+Title: Towards Understanding the Role of Gender in Deploying Social Media-Based Mental Health Surveillance Models
+Year: 2021
+
+Title: MuSE: a Multimodal Dataset of Stressed Emotion
+Year: 2020
+
+Title: CEASE, a Corpus of Emotion Annotated Suicide notes in English
+Year: 2020
+
+Title: Learning Word Ratings for Empathy and Distress from Document-Level User Responses
+Year: 2020
+
+Title: Stress Test Evaluation of Transformer-based Models in Natural Language Understanding Tasks
+Year: 2020
+
+Title: Searching Brazilian Twitter for Signs of Mental Health Issues
+Year: 2020
+
+Title: Inferring Social Media Users’ Mental Health Status from Multimodal Information
+Year: 2020
+
+Title: Evaluating Contextual Embeddings and their Extraction Layers for Depression Assessment
+Year: 2022
+
+Title: Empathy and Distress Prediction using Transformer Multi-output Regression and Emotion Analysis with an Ensemble of Supervised and Zero-Shot Learning Models
+Year: 2022
+
+Title: SURREY-CTS-NLP at WASSA2022: An Experiment of Discourse and Sentiment Analysis for the Prediction of Empathy, Distress and Emotion
+Year: 2022
+
+Title: Empathetic Response Generation for Distress Support
+Year: 2023
+
+Title: Stress Test Evaluation of Biomedical Word Embeddings
+Year: 2021
+
+Title: Detection of Mental Health from Reddit via Deep Contextualized Representations
+Year: 2020
+
+Title: Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts
+Year: 2020
+
+Title: Monte Carlo Tree Search for Interpreting Stress in Natural Language
+Year: 2022
+
+Title: NYCU_TWD@LT-EDI-ACL2022: Ensemble Models with VADER and Contrastive Learning for Detecting Signs of Depression from Social Media
+Year: 2022
+
+Title: UMUTeam@LT-EDI-ACL2022: Detecting Signs of Depression from text
+Year: 2022
+
+Title: DeepBlues@LT-EDI-ACL2022: Depression level detection modelling through domain specific BERT and short text Depression classifiers
+Year: 2022
+
+Title: SSN_MLRG3 @LT-EDI-ACL2022-Depression Detection System from Social Media Text using Transformer Models
+Year: 2022
+
+Title: BERT 4EVER@LT-EDI-ACL2022-Detecting signs of Depression from Social Media:Detecting Depression in Social Media using Prompt-Learning and Word-Emotion Cluster
+Year: 2022
+
+Title: scubeMSEC@LT-EDI-ACL2022: Detection of Depression using Transformer Models
+Year: 2022
+
+Title: IISERB@LT-EDI-ACL2022: A Bag of Words and Document Embeddings Based Framework to Identify Severity of Depression Over Social Media
+Year: 2022
+
+Title: KUCST@LT-EDI-ACL2022: Detecting Signs of Depression from Social Media Text
+Year: 2022
+
+Title: E8-IJS@LT-EDI-ACL2022 - BERT, AutoML and Knowledge-graph backed Detection of Depression
+Year: 2022
+
+Title: KADO@LT-EDI-ACL2022: BERT-based Ensembles for Detecting Signs of Depression from Social Media Text
+Year: 2022
+
+Title: OPI@LT-EDI-ACL2022: Detecting Signs of Depression from Social Media Text using RoBERTa Pre-trained Language Models
+Year: 2022
+
+Title: FilipN@LT-EDI-ACL2022-Detecting signs of Depression from Social Media: Examining the use of summarization methods as data augmentation for text classification
+Year: 2022
+
+Title: SSN_MLRG1@LT-EDI-ACL2022: Multi-Class Classification using BERT models for Detecting Depression Signs from Social Media Text
+Year: 2022
+
+Title: DepressionOne@LT-EDI-ACL2022: Using Machine Learning with SMOTE and Random UnderSampling to Detect Signs of Depression on Social Media Text.
+Year: 2022
+
+Title: MUCS@Text-LT-EDI@ACL 2022: Detecting Sign of Depression from Social Media Text using Supervised Learning Approach
+Year: 2022
+
+Title: SSN@LT-EDI-ACL2022: Transfer Learning using BERT for Detecting Signs of Depression from Social Media Texts
+Year: 2022
+
+Title: Findings of the Shared Task on Detecting Signs of Depression from Social Media
+Year: 2022
+
+Title: DLRG@LT-EDI-ACL2022:Detecting signs of Depression from Social Media using XGBoost Method
+Year: 2022
+
+Title: IDIAP Submission@LT-EDI-ACL2022: Detecting Signs of Depression from Social Media Text
+Year: 2022
+
+Title: Hierarchical Attention Network for Explainable Depression Detection on Twitter Aided by Metaphor Concept Mappings
+Year: 2022
+
+Title: EM-PERSONA: EMotion-assisted Deep Neural Framework for PERSONAlity Subtyping from Suicide Notes
+Year: 2022
+
+Title: Detecting Suicide Risk in Online Counseling Services: A Study in a Low-Resource Language
+Year: 2022
+
+Title: EmoMent: An Emotion Annotated Mental Health Corpus from Two South Asian Countries
+Year: 2022
+
+Title: Exploring Online Depression Forums via Text Mining: A Comparison of Reddit and a Curated Online Forum
+Year: 2020
+
+Title: Towards Preemptive Detection of Depression and Anxiety in Twitter
+Year: 2020
+
+Title: SMHD: a Large-Scale Resource for Exploring Online Language Usage for Multiple Mental Health Conditions
+Year: 2018
+
+Title: Stress Test Evaluation for Natural Language Inference
+Year: 2018
+
+Title: Event Detection for Suicide Understanding
+Year: 2022
+
+Title: Handling Stress in Finite-State Morphological Analyzers for Ancient Greek and Ancient Hebrew
+Year: 2022
+
+Title: Feature Attention Network: Interpretable Depression Detection from Social Media
+Year: 2018
+
+Title: Communicating Social Support in Online Self-help Groups for Anxiety and Depression: A Qualitative Discourse Analysis
+Year: 2018
+
+Title: Temporal Tides of Emotional Resonance: A Novel Approach to Identify Mental Health on Social Media
+Year: 2023
+
+Title: Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires
+Year: 2022
+
+Title: Parameter Efficient Transfer Learning for Suicide Attempt and Ideation Detection
+Year: 2022
+
+Title: Curriculum-guided Abstractive Summarization for Mental Health Online Posts
+Year: 2022
+
+Title: Exploring Hybrid and Ensemble Models for Multiclass Prediction of Mental Health Status on Social Media
+Year: 2022
+
+Title: Semantic Shifts in Mental Health-Related Concepts
+Year: 2023
+
+Title: A Psychologically Informed Part-of-Speech Analysis of Depression in Social Media
+Year: 2021
+
+Title: A Dataset for Research on Modelling Depression Severity in Online Forum Data
+Year: 2021
+
+Title: The Influence of Context on the Learning of Metrical Stress Systems Using Finite-State Machines
+Year: 2018
+
+Title: PVG at WASSA 2021: A Multi-Input, Multi-Task, Transformer-Based Architecture for Empathy and Distress Prediction
+Year: 2021
+
+Title: EmpNa at WASSA 2021: A Lightweight Model for the Prediction of Empathy, Distress and Emotions from Reactions to News Stories
+Year: 2021
+
+Title: Overview of the shared task on Detecting Signs of Depression from Social Media Text
+Year: 2023
+
+Title: iicteam@LT-EDI-2023: Leveraging pre-trained Transformers for Fine-Grained Depression Level Detection in Social Media
+Year: 2023
+
+Title: JA-NLP@LT-EDI-2023: Empowering Mental Health Assessment: A RoBERTa-Based Approach for Depression Detection
+Year: 2023
+
+Title: Team-KEC@LT-EDI: Detecting Signs of Depression from Social Media Text
+Year: 2023
+
+Title: NLP_CHRISTINE@LT-EDI-2023: RoBERTa & DeBERTa Fine-tuning for Detecting Signs of Depression from Social Media Text
+Year: 2023
+
+Title: IIITDWD@LT-EDI-2023 Unveiling Depression: Using pre-trained language models for Harnessing Domain-Specific Features and Context Information
+Year: 2023
+
+Title: CIMAT-NLP@LT-EDI-2023: Finegrain Depression Detection by Multiple Binary Problems Approach
+Year: 2023
+
+Title: SIS@LT-EDI-2023: Detecting Signs of Depression from Social Media Text
+Year: 2023
+
+Title: TEAM BIAS BUSTERS@LT-EDI-2023: Detecting Signs of Depression with Generative Pretrained Transformers
+Year: 2023
+
+Title: TechSSN1 at LT-EDI-2023: Depression Detection and Classification using BERT Model for Social Media Texts
+Year: 2023
+
+Title: IJS@LT-EDI : Ensemble Approaches to Detect Signs of Depression from Social Media Text
+Year: 2023
+
+Title: Cordyceps@LT-EDI : Depression Detection with Reddit and Self-training
+Year: 2023
+
+Title: TechWhiz@LT-EDI-2023: Transformer Models to Detect Levels of Depression from Social Media Text
+Year: 2023
+
+Title: ML&AI_IIITRanchi@LT-EDI-2023: Hybrid Model for Text Classification for Identification of Various Types of Depression
+Year: 2023
+
+Title: TechSSN4@LT-EDI-2023: Depression Sign Detection in Social Media Postings using DistilBERT Model
+Year: 2023
+
+Title: The Mavericks@LT-EDI-2023: Detection of signs of Depression from social Media Texts using Navie Bayse approach
+Year: 2023
+
+Title: Interns@LT-EDI : Detecting Signs of Depression from Social Media Text
+Year: 2023
+
+Title: DeepLearningBrasil@LT-EDI-2023: Exploring Deep Learning Techniques for Detecting Depression in Social Media Text
+Year: 2023
+
+Title: MUCS@LT-EDI2023: Detecting Signs of Depression in Social Media Text
+Year: 2023
+
+Title: KEC_AI_NLP_DEP @ LT-EDI : Detecting Signs of Depression From Social Media Texts
+Year: 2023
+
+Title: Flamingos_python@LT-EDI-2023: An Ensemble Model to Detect Severity of Depression
+Year: 2023
+
+Title: IMFinE:An Integrated BERT-CNN-BiGRU Model for Mental Health Detection in Financial Context on Textual Data
+Year: 2022
+
+Title: The uncivil empathy: Investigating the relation between empathy and toxicity in online mental health support forums
+Year: 2023
+
+Title: Distinguishing between Dementia with Lewy bodies (DLB) and Alzheimer’s Disease (AD) using Mental Health Records: a Classification Approach
+Year: 2020
+
+Title: PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media
+Year: 2021
+
+Title: Gender and Racial Fairness in Depression Research using Social Media
+Year: 2021
+
+Title: Finding Your Voice: The Linguistic Development of Mental Health Counselors
+Year: 2019
+
+Title: A Framework to Assist Chat Operators of Mental Healthcare Services
+Year: 2020
+
+Title: MANTIS at SMM4H’2022: Pre-Trained Language Models Meet a Suite of Psycholinguistic Features for the Detection of Self-Reported Chronic Stress
+Year: 2022
+
+Title: NCUEE-NLP@SMM4H’22: Classification of Self-reported Chronic Stress on Twitter Using Ensemble Pre-trained Transformer Models
+Year: 2022
+
+Title: The Best of Both Worlds: Combining Engineered Features with Transformers for Improved Mental Health Prediction from Reddit Posts
+Year: 2022
+
+Title: On Pronunciations in Wiktionary: Extraction and Experiments on Multilingual Syllabification and Stress Prediction
+Year: 2021
+
+Title: Multimodal Topic-Enriched Auxiliary Learning for Depression Detection
+Year: 2020
+
+Title: Sifting French Tweets to Investigate the Impact of Covid-19 in Triggering Intense Anxiety
+Year: 2021
+
+Title: DEPAC: a Corpus for Depression and Anxiety Detection from Speech
+Year: 2022
+
+Title: The ethical role of computational linguistics in digital psychological formulation and suicide prevention.
+Year: 2022
+
+Title: Explaining Models of Mental Health via Clinically Grounded Auxiliary Tasks
+Year: 2022
+
+Title: Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed Depression Diagnoses
+Year: 2022
+
+Title: Tracking Mental Health Risks and Coping Strategies in Healthcare Workers’ Online Conversations Across the COVID-19 Pandemic
+Year: 2022
+
+Title: Comparing emotion feature extraction approaches for predicting depression and anxiety
+Year: 2022
+
+Title: Learning to Automate Follow-up Question Generation using Process Knowledge for Depression Triage on Reddit Posts
+Year: 2022
+
+Title: Approximate Nearest Neighbour Extraction Techniques and Neural Networks for Suicide Risk Prediction in the CLPsych 2022 Shared Task
+Year: 2022
+
+Title: Emotionally-Informed Models for Detecting Moments of Change and Suicide Risk Levels in Longitudinal Social Media Data
+Year: 2022
+
+Title: WWBP-SQT-lite: Multi-level Models and Difference Embeddings for Moments of Change Identification in Mental Health Forums
+Year: 2022
+
+Title: TBD3: A Thresholding-Based Dynamic Depression Detection from Social Media for Low-Resource Users
+Year: 2022
+
+Title: MentSum: A Resource for Exploring Summarization of Mental Health Online Posts
+Year: 2022
+
+Title: A Whole-Person Function Dictionary for the Mobility, Self-Care and Domestic Life Domains: a Seedset Expansion Approach
+Year: 2022
+
+Title: Life is not Always Depressing: Exploring the Happy Moments of People Diagnosed with Depression
+Year: 2022
+
+Title: Leveraging Mental Health Forums for User-level Depression Detection on Social Media
+Year: 2022
+
+Title: CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts
+Year: 2022
+
+Title: MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare
+Year: 2022
+
+Title: What type of happiness are you looking for? - A closer look at detecting mental health from language
+Year: 2018
+
+Title: A Linguistically-Informed Fusion Approach for Multimodal Depression Detection
+Year: 2018
+
+Title: Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings
+Year: 2018
+
+Title: Hierarchical neural model with attention mechanisms for the classification of social media text related to mental health
+Year: 2018
+
+Title: Cross-cultural differences in language markers of depression online
+Year: 2018
+
+Title: Deep Learning for Depression Detection of Twitter Users
+Year: 2018
+
+Title: Can adult mental health be predicted by childhood future-self narratives? Insights from the CLPsych 2018 Shared Task
+Year: 2018
+
+Title: RSDD-Time: Temporal Annotation of Self-Reported Mental Health Diagnoses
+Year: 2018
+
+Title: Within and Between-Person Differences in Language Used Across Anxiety Support and Neutral Reddit Communities
+Year: 2018
+
+Title: Detecting Linguistic Traces of Depression in Topic-Restricted Text: Attending to Self-Stigmatized Depression with NLP
+Year: 2018
+
+Title: Deep learning for language understanding of mental health concepts derived from Cognitive Behavioural Therapy
+Year: 2018
+
+Title: Time Expressions in Mental Health Records for Symptom Onset Extraction
+Year: 2018
+
+Title: Identifying Depression on Reddit: The Effect of Training Data
+Year: 2018
+
+Title: What Makes You Stressed? Finding Reasons From Tweets
+Year: 2018
+
+Title: Trouble on the Road: Finding Reasons for Commuter Stress from Tweets
+Year: 2018
+
+Title: Approaching Stress and Performance in RSI: Proposal for Action to Take Back Control
+Year: 2021
+
+Title: PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support
+Year: 2021
+
+Title: An Exploratory Analysis of the Relation between Offensive Language and Mental Health
+Year: 2021
+
+Title: Micromodels for Efficient, Explainable, and Reusable Systems: A Case Study on Mental Health
+Year: 2021
+
+Title: Char-RNN for Word Stress Detection in East Slavic Languages
+Year: 2019
+
+Title: CLPsych 2019 Shared Task: Predicting the Degree of Suicide Risk in Reddit Posts
+Year: 2019
+
+Title: CLaC at CLPsych 2019: Fusion of Neural Features and Predicted Class Probabilities for Suicide Risk Assessment Based on Online Posts
+Year: 2019
+
+Title: Suicide Risk Assessment with Multi-level Dual-Context Language and BERT
+Year: 2019
+
+Title: Mental Health Surveillance over Social Media with Digital Cohorts
+Year: 2019
+
+Title: Similar Minds Post Alike: Assessment of Suicide Risk Using a Hybrid Model
+Year: 2019
+
+Title: Predicting Suicide Risk from Online Postings in Reddit The UGent-IDLab submission to the CLPysch 2019 Shared Task A
+Year: 2019
+
+Title: CLPsych2019 Shared Task: Predicting Suicide Risk Level from Reddit Posts on Multiple Forums
+Year: 2019
+
+Title: Suicide Risk Assessment on Social Media: USI-UPF at the CLPsych 2019 Shared Task
+Year: 2019
+
+Title: Using Contextual Representations for Suicide Risk Assessment from Internet Forums
+Year: 2019
+
+Title: An Investigation of Deep Learning Systems for Suicide Risk Assessment
+Year: 2019
+
+Title: ConvSent at CLPsych 2019 Task A: Using Post-level Sentiment Features for Suicide Risk Prediction on Reddit
+Year: 2019
+
+Title: Passive Diagnosis Incorporating the PHQ-4 for Depression and Anxiety
+Year: 2019
+
+Title: Unbounded Stress in Subregular Phonology
+Year: 2019
+
+Title: Heart Failure Education of African American and Hispanic/Latino Patients: Data Collection and Analysis
+Year: 2020
+
+Title: On the Utility of Audiovisual Dialog Technologies and Signal Analytics for Real-time Remote Monitoring of Depression Biomarkers
+Year: 2020
+
+Title: Cluster Analysis of Online Mental Health Discourse using Topic-Infused Deep Contextualized Representations
+Year: 2021
+
+Title: Latent Suicide Risk Detection on Microblog via Suicide-Oriented Word Embeddings and Layered Attention
+Year: 2019
+
+Title: Adapting Deep Learning Methods for Mental Health Prediction on Social Media
+Year: 2019
+
+Title: Bend but Don’t Break? Multi-Challenge Stress Test for QA Models
+Year: 2019
+
+Title: Dreaddit: A Reddit Dataset for Stress Analysis in Social Media
+Year: 2019
+
+Title: Dilated LSTM with attention for Classification of Suicide Notes
+Year: 2019
+
+Title: Towards Identifying Fine-Grained Depression Symptoms from Memes
+Year: 2023
+
+Title: Understanding Client Reactions in Online Mental Health Counseling
+Year: 2023
+
+Title: Discourse-Level Representations can Improve Prediction of Degree of Anxiety
+Year: 2023
+
+Title: Detecting Depression in Social Media using Fine-Grained Emotions
+Year: 2019
+
+Title: SNAP-BATNET: Cascading Author Profiling and Social Network Graphs for Suicide Ideation Detection on Social Media
+Year: 2019
+
+Title: Data Augmentation for Mental Health Classification on Social Media
+Year: 2021
+
+Title: Stress Rules from Surface Forms: Experiments with Program Synthesis
+Year: 2021
+
+Title: Detecting Depression in Thai Blog Posts: a Dataset and a Baseline
+Year: 2021
+
+Title: Machine Learning Approach for Depression Detection in Japanese
+Year: 2021
+
+Title: A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support
+Year: 2020
+
+Title: A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media
+Year: 2020
+
+Title: Assessing population-level symptoms of anxiety, depression, and suicide risk in real time using NLP applied to social media data
+Year: 2020
+
+Title: Embodied Interaction in Mental Health Consultations: Some Observations on Grounding and Repair
+Year: 2022
+
+Title: Suicide Ideation Detection via Social and Temporal User Representations using Hyperbolic Learning
+Year: 2021
+
+Title: MUSER: MUltimodal Stress detection using Emotion Recognition as an Auxiliary Task
+Year: 2021
+
+Title: Emotion-Infused Models for Explainable Psychological Stress Detection
+Year: 2021
+
+Title: Learning Stress Patterns with a Sequence-to-Sequence Neural Network
+Year: 2022
+
+Title: ScAN: Suicide Attempt and Ideation Events Dataset
+Year: 2022
+
+Title: Comparing Selective Masking Methods for Depression Detection in Social Media
+Year: 2023
+
+Title: ChatGPT for Suicide Risk Assessment on Social Media: Quantitative Evaluation of Model Performance, Potentials and Limitations
+Year: 2023
+
+Title: Sadness and Anxiety Language in Reddit Messages Before and After Quitting a Job
+Year: 2023
+
+Title: Domain Transfer for Empathy, Distress, and Personality Prediction
+Year: 2023
+
+Title: PICT-CLRL at WASSA 2023 Empathy, Emotion and Personality Shared Task: Empathy and Distress Detection using Ensembles of Transformer Models
+Year: 2023
+
+Title: Language and Mental Health: Measures of Emotion Dynamics from Text as Linguistic Biosocial Markers
+Year: 2023
+
+Title: Standardizing Distress Analysis: Emotion-Driven Distress Identification and Cause Extraction (DICE) in Multimodal Online Posts
+Year: 2023
+
+Title: Towards Interpretable Mental Health Analysis with Large Language Models
+Year: 2023
+
+Title: An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives
+Year: 2023
+
+Title: FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning
+Year: 2023
+
+Title: FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions
+Year: 2023
+
+Title: Task-Adaptive Tokenization: Enhancing Long-Form Text Generation Efficacy in Mental Health and Beyond
+Year: 2023
+
+Title: Semantic Similarity Models for Depression Severity Estimation
+Year: 2023
+
+Title: How are you? Introducing stress-based text tailoring
+Year: 2020
+

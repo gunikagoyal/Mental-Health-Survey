@@ -1,0 +1,120 @@
+Title: Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts
+Year: 2020
+
+Title: A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support
+Year: 2020
+
+Title: A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media
+Year: 2020
+
+Title: Weakly-Supervised Methods for Suicide Risk Assessment: Role of Related Domains
+Year: 2021
+
+Title: PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media
+Year: 2021
+
+Title: Gender and Racial Fairness in Depression Research using Social Media
+Year: 2021
+
+Title: Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires
+Year: 2022
+
+Title: Gendered Mental Health Stigma in Masked Language Models
+Year: 2022
+
+Title: D4: a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat
+Year: 2022
+
+Title: Towards Identifying Fine-Grained Depression Symptoms from Memes
+Year: 2023
+
+Title: Understanding Client Reactions in Online Mental Health Counseling
+Year: 2023
+
+Title: Discourse-Level Representations can Improve Prediction of Degree of Anxiety
+Year: 2023
+
+Title: Language and Mental Health: Measures of Emotion Dynamics from Text as Linguistic Biosocial Markers
+Year: 2023
+
+Title: Standardizing Distress Analysis: Emotion-Driven Distress Identification and Cause Extraction (DICE) in Multimodal Online Posts
+Year: 2023
+
+Title: Towards Interpretable Mental Health Analysis with Large Language Models
+Year: 2023
+
+Title: An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives
+Year: 2023
+
+Title: FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning
+Year: 2023
+
+Title: FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions
+Year: 2023
+
+Title: Task-Adaptive Tokenization: Enhancing Long-Form Text Generation Efficacy in Mental Health and Beyond
+Year: 2023
+
+Title: Semantic Similarity Models for Depression Severity Estimation
+Year: 2023
+
+Title: Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts
+Year: 2020
+
+Title: A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support
+Year: 2020
+
+Title: A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media
+Year: 2020
+
+Title: Weakly-Supervised Methods for Suicide Risk Assessment: Role of Related Domains
+Year: 2021
+
+Title: PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media
+Year: 2021
+
+Title: Gender and Racial Fairness in Depression Research using Social Media
+Year: 2021
+
+Title: Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires
+Year: 2022
+
+Title: Gendered Mental Health Stigma in Masked Language Models
+Year: 2022
+
+Title: D4: a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat
+Year: 2022
+
+Title: Towards Identifying Fine-Grained Depression Symptoms from Memes
+Year: 2023
+
+Title: Understanding Client Reactions in Online Mental Health Counseling
+Year: 2023
+
+Title: Discourse-Level Representations can Improve Prediction of Degree of Anxiety
+Year: 2023
+
+Title: Language and Mental Health: Measures of Emotion Dynamics from Text as Linguistic Biosocial Markers
+Year: 2023
+
+Title: Standardizing Distress Analysis: Emotion-Driven Distress Identification and Cause Extraction (DICE) in Multimodal Online Posts
+Year: 2023
+
+Title: Towards Interpretable Mental Health Analysis with Large Language Models
+Year: 2023
+
+Title: An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives
+Year: 2023
+
+Title: FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning
+Year: 2023
+
+Title: FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions
+Year: 2023
+
+Title: Task-Adaptive Tokenization: Enhancing Long-Form Text Generation Efficacy in Mental Health and Beyond
+Year: 2023
+
+Title: Semantic Similarity Models for Depression Severity Estimation
+Year: 2023
+
