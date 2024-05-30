@@ -1,0 +1,15 @@
+Title,Year,DOI,CitationCount
+Deep Learning for Depression Detection of Twitter Users,2018,10.18653/v1/W18-0609,120
+"Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings",2018,10.18653/v1/W18-0603,85
+Identifying Depression on Reddit: The Effect of Training Data,2018,10.18653/v1/W18-5903,49
+CLPsych 2019 Shared Task: Predicting the Degree of Suicide Risk in Reddit Posts,2019,10.18653/v1/W19-3003,46
+Detecting Depression in Social Media using Fine-Grained Emotions,2019,10.18653/v1/N19-1151,45
+A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support,2020,10.18653/v1/2020.emnlp-main.425,42
+Suicide Risk Assessment with Multi-level Dual-Context Language and BERT,2019,10.18653/v1/W19-3005,41
+A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media,2020,10.18653/v1/2020.emnlp-main.619,41
+Adapting Deep Learning Methods for Mental Health Prediction on Social Media,2019,10.18653/v1/D19-5542,36
+Dreaddit: A Reddit Dataset for Stress Analysis in Social Media,2019,10.18653/v1/D19-6213,34
+Hierarchical neural model with attention mechanisms for the classification of social media text related to mental health,2018,10.18653/v1/W18-0607,33
+Latent Suicide Risk Detection on Microblog via Suicide-Oriented Word Embeddings and Layered Attention,2019,10.18653/v1/D19-1181,30
+Detection of Mental Health from Reddit via Deep Contextualized Representations,2020,10.18653/v1/2020.louhi-1.16,25
+PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media,2021,10.18653/v1/2021.eacl-main.205,21
